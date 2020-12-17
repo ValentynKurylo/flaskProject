@@ -1,0 +1,1 @@
+DATABASE_URI = 'postgres://postgres:kurylo13@localhost:5432/my_base'
